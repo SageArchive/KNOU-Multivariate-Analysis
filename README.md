@@ -1,2 +1,10 @@
 # KNOU-Multivariate-Analysis
-한국방송통신대학교(KNOU) 다변량분석(Multivariate Analysis) 교재 및 강의 실습
+Chapter 1 Multivariate Data Visualization
+Chapter 2 Principal Component Analysis
+Chapter 3 Factor Analysis
+Chapter 4 Cluster Analysis
+Chapter 5 Multidimensional Scaling (MDS)
+Chapter 6 Canonical Correlation Analysis
+Chapter 7 Discriminant Analysis
+Chapter 8 Logistic Regression Model
+Chapter 9 Tree Model
